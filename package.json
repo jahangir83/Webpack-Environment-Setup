@@ -1,0 +1,34 @@
+{
+  "name": "jahangir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devServer": "webpack-dev-server -w",
+    "dev": "webpack"
+  },
+  "author": "Jahangir",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.5.2",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.2.0",
+    "image-webpack-loader": "^6.0.0",
+    "jquery": "^3.5.0",
+    "lodash": "^4.17.15",
+    "mini-css-extract-plugin": "^0.9.0",
+    "style-loader": "^1.1.4",
+    "url-loader": "^4.1.0"
+  }
+}
